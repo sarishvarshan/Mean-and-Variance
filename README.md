@@ -1,9 +1,9 @@
 #  Mean and variance of a discrete  distribution
 ```
-Developed by : SARISH VARSHAN V
-Register No : 212223230196
-Department : AI&DS
-Date : 04/03/2025
+Developed by:SARISH VARSHAN V
+Register No:212223230196
+Department:AI&DS
+Date:04/03/2025
 ```
 
 # Aim : 

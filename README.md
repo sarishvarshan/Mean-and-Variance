@@ -1,4 +1,5 @@
-# Ex No : 1 Mean and variance of a discrete  distribution
+# Ex No : 1 
+# Mean and variance of a discrete  distribution
 ```
 Developed by:SARISH VARSHAN V
 Register No:212223230196
